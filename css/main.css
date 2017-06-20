@@ -1,7 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", 'Helvetica', 'Arial', "Lucida Grande", 'sans-serif'; 
 	font-weight: 300;
 	font-size:12px;
 	color: black;
@@ -20,8 +20,9 @@ a {
     text-decoration: none;
     color: #999;
 }
-a:hover {
-    text-decoration: underline;
+a:hover, a:active{
+	#text-decoration: underline;
+	color: blue;
 }
 h1 {
     font-size: 3em;
