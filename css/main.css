@@ -27,14 +27,13 @@ nav ul li, footer ul li {
     margin-right: 20px;
 }
 a:hover, a:active{
-	color: blue;
+	color: rgb(0, 153, 255);
 }
 nav a:link, a:visited {
 	color: rgb(121, 121, 121);
-	text-decoration:none;
 }
 nav a.current {
-	color: #0099FF;
+	color: rgb(0, 153, 255);
 }
 h1 {
     font-size: 3em;
