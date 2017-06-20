@@ -24,16 +24,16 @@ nav ul, footer ul {
 nav ul li, footer ul li {
 	display: inline;
 	margin-right: 20px;
-	text-decoration:none;
 }
 a:hover, a:active {
 	color: rgb(0, 153, 255);
+	text-decoration:none;
 }
 nav a.current {
 	color: rgb(0, 153, 255);
 }
 h1 {
-    font-size: 3em;
+    font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
@@ -46,14 +46,5 @@ footer {
     font-size: .8em;
 }
 nav {
-	font-size:14px;
-}
-
-ul.posts { 
-    margin: 20px auto 40px; 
-    font-size: 1.5em;
-}
-
-ul.posts li {
-    list-style: none;
+	font-size:1em;
 }
