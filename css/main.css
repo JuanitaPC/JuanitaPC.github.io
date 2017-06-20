@@ -48,7 +48,7 @@ footer {
 	font-size: 0.5em;
 	text-align:center;
 }
-nav {
+nav ul li {
 	text-align:right;
 	font-size:1em;
 }
