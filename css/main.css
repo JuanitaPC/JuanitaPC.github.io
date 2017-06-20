@@ -23,14 +23,12 @@ nav ul, footer ul {
 	font-size:14px;
 }
 nav ul li, footer ul li {
-    display: inline;
-    margin-right: 20px;
+	display: inline;
+	margin-right: 20px;
+	text-decoration:none
 }
 a:hover, a:active{
 	color: rgb(0, 153, 255);
-}
-nav a:link, a:visited {
-	color: rgb(121, 121, 121);
 }
 nav a.current {
 	color: rgb(0, 153, 255);
