@@ -2,28 +2,27 @@ body {
 	margin: 60px auto;
 	width: 70%;
 	font-family:'Helvetica', 'Arial','sans-serif'; 
-	font-weight: 300;
-	font-size:12px;
+	font-size:2em;
 	color: black;
 }
 header{
 	text-align:center;
 	font-size:3em;
+	font-weight: bold;
 	color: rgb(121, 121, 121);
 }
 nav ul, footer ul {
 	font-family:'Helvetica', 'Arial', 'Sans-Serif';
 	padding: 0px;
 	list-style: none;
-	font-weight: bold;
-	line-height:20px;
-	height:20px;
-	float:top;
-	text-align:right;
 }
 nav ul li, footer ul li {
 	display: inline;
 	margin-right: 20px;
+}
+a:link, a:visited {
+	color: rgb(0, 153, 255);
+	text-decoration:underline;
 }
 a:hover, a:active {
 	color: rgb(0, 153, 255);
@@ -32,6 +31,9 @@ a:hover, a:active {
 nav a.current {
 	color: rgb(0, 153, 255);
 }
+nav a:link, a:visited {
+	color: rgb(121, 121, 121);
+	text-decoration:none;
 h1 {
     font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -42,9 +44,11 @@ p {
     color: #333;
 }
 footer {
-    border-top: 1px solid #d5d5d5;
-    font-size: .8em;
+	border-top: 1px solid #d5d5d5;
+	font-size: 1em;
+	text-align:center;
 }
 nav {
-	font-size:1em;
+	text-align:right;
+	font-size:2em;
 }
