@@ -8,22 +8,24 @@ body {
 }
 header{
 	text-align:center;
-	font-size:3m;
+	font-size:3em;
 	color: rgb(121, 121, 121);
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
-    list-style: none;
-    font-weight: bold;
+	font-family:'Helvetica', 'Arial', 'Sans-Serif';
+	padding: 0px;
+	list-style: none;
+	font-weight: bold;
+	line-height:20px;
+	height:20px;
+	width:100%;
+	float:top;
+	text-align:right;
+	font-size:14px;
 }
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
-}
-a {
-    text-decoration: none;
-    color: #999;
 }
 a:hover, a:active{
 	#text-decoration: underline;
