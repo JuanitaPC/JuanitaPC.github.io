@@ -4,10 +4,13 @@ body {
 	margin-right: auto;
 	margin-left: auto;
 	background: rgb(204,204,204);
-	width: 750px;
 	font-family: Helvetica, Arial, sans-serif; 
 	font-size: 2em;
 	color: black;
+}
+.contenido{
+	background: rgb(0,0,0);
+	width: 750px;	
 }
 nav{
 	font-size: 0.75em;
