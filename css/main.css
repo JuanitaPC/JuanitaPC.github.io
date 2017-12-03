@@ -28,8 +28,8 @@ body {
 }
 header{
 	text-align: center;
-	margin-top: 0em;
-	margin-bottom: 0em;
+	margin-top: 1em;
+	margin-bottom: 1em;
 	margin-right: 1em;
 	margin-left: 1em;
 	font-size: 3em;
@@ -39,7 +39,7 @@ header{
 	border-bottom-style: solid;
 	border-left-style: none;
 	border-width: 0.05em;
-	border-color: red;
+	border-color: rgb(121, 121, 121);
 }
 footer {
 	margin-right: 1.5em;
