@@ -7,7 +7,6 @@ body {
 }
 nav{
 	font-size: 0.75em;
-	text-align: right;
 	font-family: Helvetica, 'Arial', 'sans-serif';
 }
 header{
@@ -23,9 +22,9 @@ footer {
 }
 nav ul{
 	list-style-type: none;
-	overflow: hidden;
 }
 nav ul li{
+	float: right;
 	padding: 1em;
 }
 nav li a{
