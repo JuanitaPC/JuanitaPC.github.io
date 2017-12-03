@@ -11,8 +11,8 @@ body {
 .contenido{
 	margin-top: 10px;
 	margin-bottom: 10px;
-	margin-right: 20px;
-	margin-left: 20px;
+	margin-right: auto;
+	margin-left: auto;
 	background: rgb(250,250,250);
 	width: 750px;
 	padding: 10px;
