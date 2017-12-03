@@ -1,5 +1,6 @@
 body {
 	font-size: 12px;
+	font-weight: 300;
 	margin-top: 1em;
 	margin-bottom: 1em;
 	margin-right: auto;
@@ -37,13 +38,17 @@ nav{
 	margin-right: 1.5em;
 	margin-left: 1.5em;
 	text-align: right;
-	font-size: 1em;
+	font-size: 1.125em;
 }
 nav ul{
 	list-style-type: none;
 }
 nav li a:hover {
     color: black;
+}
+nav a:link, a:visited {
+	color: rgb(121, 121, 121);
+	text-decoration:none;
 }
 footer {
 	margin-right: 1.5em;
@@ -65,6 +70,13 @@ li a{
 	text-decoration: none;
 	color: rgb(121, 121, 121);
 }
-.active {
+.current{
     color: rgb(0, 153, 255);
+}
+a:link, a:visited {
+	color: rgb(0, 153, 255);
+	text-decoration:underline;
+}
+a:hover, a:active{
+    color: blue;
 }
