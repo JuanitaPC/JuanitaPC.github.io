@@ -5,6 +5,10 @@ body {
 	font-size:2em;
 	color: black;
 }
+nav{
+	text-align: center;
+	font-size: 1em;
+}
 header{
 	text-align:center;
 	font-size:2em;
