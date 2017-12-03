@@ -29,5 +29,6 @@ nav ul li{
 	padding: 1em;
 }
 nav li a{
-		color: red;
+	text-decoration: none;
+	color: red;
 }
