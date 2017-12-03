@@ -34,7 +34,10 @@ nav{
 }
 header{
 	text-align: center;
-	margin-right: 1.5em;
+	margin-top: 0em;
+	margin-bottom: 0em;
+	margin-right: 1em;
+	margin-left: 1em;
 	font-size: 3em;
 	color: rgb(121, 121, 121);
 	border-top-style: solid;
