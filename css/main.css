@@ -18,13 +18,11 @@ body {
 	padding: 0.5em;
 	min-height: 100%;
 	position: relative;
-	border-style: solid;
 }
 .container{
 	margin-right: 1.5em;
 	margin-left: 1.5em;
 	color: blue;
-	border-style: solid;
 }
 header{
 	text-align: center;
@@ -53,7 +51,6 @@ nav{
 	margin-left: 1.5em;
 	text-align: right;
 	font-size: 1em;
-	border-style: solid;
 }
 nav ul{
 	list-style-type: none;
