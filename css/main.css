@@ -25,9 +25,10 @@ nav{
 }
 header{
 	text-align: center;
+	margin-right:3%;
+	margin-left:3%;
 	font-family: Helvetica, Arial, sans-serif;
-	font-size: 2em;
-	font-weight: bold;
+	font-size: 3em;
 	color: rgb(121, 121, 121);
 }
 footer {
