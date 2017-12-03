@@ -20,20 +20,18 @@ body {
 	position: relative;
 }
 nav{
-	font-size: 0.75em;
-	font-family: Helvetica, Arial, sans-serif;
+	font-size: 1em;
 }
 header{
 	text-align: center;
 	margin-right:3%;
 	margin-left:3%;
-	font-family: Helvetica, Arial, sans-serif;
 	font-size: 3em;
 	color: rgb(121, 121, 121);
 }
 footer {
 	border-top: 1px solid #d5d5d5;
-	font-size: 0.5em;
+	font-size: 1em;
 }
 nav ul{
 	list-style-type: none;
