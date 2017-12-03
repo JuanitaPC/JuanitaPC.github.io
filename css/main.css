@@ -15,25 +15,27 @@ body {
 	margin-left: auto;
 	background: rgb(250,250,250);
 	width: 750px;
-	padding: 1em;
+	padding: 0.5em;
 	min-height: 100%;
 	position: relative;
 }
+.container{
+}
 nav{
-	margin-right: 2em;
-	margin-left: 2em;
+	margin-right: 1.5em;
+	margin-left: 1.5em;
 	font-size: 1em;
 }
 header{
 	text-align: center;
-	margin-right: 2em;
-	margin-left: 2em;
+	margin-right: 1.5em;
+	margin-left: 1.5em;
 	font-size: 3em;
 	color: rgb(121, 121, 121);
 }
 footer {
-	margin-right: 2em;
-	margin-left: 2em;
+	margin-right: 1.5em;
+	margin-left: 1.5em;
 	border-top: 1px solid #d5d5d5;
 	font-size: 1em;
 }
