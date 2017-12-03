@@ -34,6 +34,13 @@ header{
 	font-size: 3em;
 	color: rgb(121, 121, 121);
 }
+a:link, a:visited{
+	color: rgb(0, 153, 255);
+	text-decoration:underline;
+}
+a:hover, a:active{
+    color: blue;
+}
 nav{
 	margin-right: 1.5em;
 	margin-left: 1.5em;
@@ -72,11 +79,4 @@ li a{
 }
 .current{
     color: rgb(0, 153, 255);
-}
-a:link, a:visited {
-	color: rgb(0, 153, 255);
-	text-decoration:underline;
-}
-a:hover, a:active{
-    color: blue;
 }
