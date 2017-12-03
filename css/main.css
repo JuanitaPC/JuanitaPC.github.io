@@ -1,4 +1,4 @@
-body {
+body{
 	font-size: 12px;
 	font-weight: 300;
 	margin-top: 1em;
@@ -33,13 +33,6 @@ header{
 	margin-left: 0.75em;
 	font-size: 3em;
 	color: rgb(121, 121, 121);
-}
-a:link, a:visited{
-	color: rgb(0, 153, 255);
-	text-decoration:underline;
-}
-a:hover, a:active{
-    color: blue;
 }
 nav{
 	margin-right: 1.5em;
