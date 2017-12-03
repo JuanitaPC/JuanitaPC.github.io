@@ -27,5 +27,7 @@ nav ul{
 nav ul li{
 	display: inline;
 	padding: 1em;
-	color: red;
+}
+nav ul li a{
+		color: red;
 }
