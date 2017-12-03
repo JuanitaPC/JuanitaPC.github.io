@@ -1,16 +1,16 @@
 body {
 	width: 70%;
-	font-family: Helvetica, 'Arial','sans-serif'; 
+	font-family: Helvetica, Arial, sans-serif; 
 	font-size: 2em;
 	color: black;
 }
 nav{
 	font-size: 0.75em;
-	font-family: Helvetica, 'Arial', 'sans-serif';
+	font-family: Helvetica, Arial, sans-serif;
 }
 header{
 	text-align: center;
-	font-family: Helvetica, 'Arial', 'sans-serif';
+	font-family: Helvetica, Arial, sans-serif;
 	font-size: 2em;
 	font-weight: bold;
 	color: rgb(121, 121, 121);
