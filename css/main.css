@@ -35,6 +35,12 @@ header{
 	margin-left: 1.5em;
 	font-size: 3em;
 	color: rgb(121, 121, 121);
+	border-top-style: dotted;
+	border-right-style: solid;
+	border-bottom-style: dotted;
+	border-left-style: solid;
+	border-width: 0.1em;
+	border-color: red;
 }
 footer {
 	margin-right: 1.5em;
