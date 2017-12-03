@@ -49,7 +49,7 @@ nav li a{
 	text-decoration: none;
 	color: rgb(121, 121, 121);
 }
-nav li a:active {
+.active {
     color: rgb(0, 153, 255);
 }
 
