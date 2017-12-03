@@ -4,7 +4,7 @@ body {
 	margin-right: auto;
 	margin-left: auto;
 	background: rgb(204,204,204);
-	font-family: Helvetica, Arial, sans-serif; 
+	font-family: Helvetica, sans-serif; 
 	font-size: 12px;
 	color: black;
 }
@@ -20,6 +20,8 @@ body {
 	position: relative;
 }
 nav{
+	margin-right: 20px;
+	margin-left: 20px;
 	font-size: 1em;
 }
 header{
@@ -30,6 +32,8 @@ header{
 	color: rgb(121, 121, 121);
 }
 footer {
+	margin-right: 20px;
+	margin-left: 20px;
 	border-top: 1px solid #d5d5d5;
 	font-size: 1em;
 }
