@@ -1,8 +1,7 @@
 body {
-	margin: 60px auto;
 	width: 70%;
-	font-family:'Helvetica', 'Arial','sans-serif'; 
-	font-size:2em;
+	font-family: Helvetica, 'Arial','sans-serif'; 
+	font-size: 2em;
 	color: black;
 }
 nav{
@@ -10,9 +9,9 @@ nav{
 	font-family: Helvetica, 'Arial', 'sans-serif';
 }
 header{
-	text-align:center;
-	font-family: 'Helvetica', 'Arial', 'sans-serif';
-	font-size:2em;
+	text-align: center;
+	font-family: Helvetica, 'Arial', 'sans-serif';
+	font-size: 2em;
 	font-weight: bold;
 	color: rgb(121, 121, 121);
 }
@@ -31,4 +30,11 @@ nav li a{
 	display: block;
 	text-decoration: none;
 	color: rgb(121, 121, 121);
+}
+nav li a.active {
+    color: color: #0099FF;
+}
+
+nav li a:hover {
+    color: black;
 }
