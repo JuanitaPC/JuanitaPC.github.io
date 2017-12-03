@@ -47,10 +47,6 @@ nav ul{
 nav li a:hover {
     color: black;
 }
-nav a:link, a:visited {
-	color: rgb(121, 121, 121);
-	text-decoration:none;
-}
 footer {
 	margin-right: 1.5em;
 	margin-left: 1.5em;
@@ -70,7 +66,4 @@ ul li{
 li a{
 	text-decoration: none;
 	color: rgb(121, 121, 121);
-}
-.current{
-    color: rgb(0, 153, 255);
 }
