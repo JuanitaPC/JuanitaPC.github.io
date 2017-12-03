@@ -20,6 +20,9 @@ body {
 	position: relative;
 }
 .container{
+	margin-right: 1.5em;
+	margin-left: 1.5em;
+	color: blue;
 }
 nav{
 	margin-right: 1.5em;
