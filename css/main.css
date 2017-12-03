@@ -33,6 +33,7 @@ nav{
 	border-style: solid;
 }
 header{
+	text-align: center;
 	font-size: 3em;
 	color: rgb(121, 121, 121);
 	border-top-style: solid;
