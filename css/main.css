@@ -8,6 +8,8 @@ body {
 nav{
 	font-size: 0.75em;
 	text-align: right;
+	font-family: 'Helvetica', 'Arial', 'sans-serif';
+	color: rgb(121,121,121);
 }
 header{
 	text-align:center;
