@@ -8,6 +8,7 @@ body {
 nav{
 	font-size: 0.75em;
 	text-align: right;
+	font-family: 'Helvetica', 'Arial', 'sans-serif';
 }
 header{
 	text-align:center;
@@ -22,10 +23,9 @@ footer {
 }
 nav ul{
 	list-style-type: none;
-	font-family: 'Helvetica', 'Arial', 'sans-serif';
-	color: red;
 }
 nav ul li{
 	display: inline;
 	padding: 1em;
+	color: red;
 }
