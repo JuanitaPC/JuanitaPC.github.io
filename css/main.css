@@ -23,9 +23,9 @@ footer {
 }
 nav ul{
 	list-style-type: none;
+	overflow: hidden;
 }
 nav ul li{
-	display: inline;
 	padding: 1em;
 }
 nav li a{
