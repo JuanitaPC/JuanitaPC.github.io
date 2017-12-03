@@ -36,7 +36,7 @@ nav li a{
 	color: rgb(121, 121, 121);
 }
 nav li a.active {
-    color: color: #0099FF;
+    color: rgb(0, 153, 255);
 }
 
 nav li a:hover {
